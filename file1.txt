@@ -1,1 +1,2 @@
 ini file pertama utk percobaan
+ini update baris ke 2
