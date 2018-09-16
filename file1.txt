@@ -1,5 +1,5 @@
 ini file pertama utk percobaan
 ini update baris ke 2
-ini update baris ke 3 (yg asli)
-ini update baris ke 4 mencoba salah
-ini update baris ke 5 
+ini update baris ke 3 (mencoba ngawur) dan (yg asli)
+ini update baris ke 4 yg benar dan salah
+ini update baris ke 5
