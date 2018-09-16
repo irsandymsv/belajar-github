@@ -1,5 +1,4 @@
 ini file pertama utk percobaan
 ini update baris ke 2
 ini update baris ke 3 (mencoba ngawur) dan (yg asli)
-ini update baris ke 4 yg benar
-
+ini update baris ke 4 yg benar dan salah
